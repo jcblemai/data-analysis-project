@@ -1,0 +1,7 @@
+__pycache__/
+*.ipynb_checkpoints/
+spotpy/examples/
+data/geodata/ws_grid.txt
+
+IC*.npy
+*.csv
